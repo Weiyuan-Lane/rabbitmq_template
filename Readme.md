@@ -1,0 +1,1 @@
+![img](https://github.com/Weiyuan-Lane/rabbitmq_template/blob/master/plugins.png)
